@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janvisg
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Full-Stack Development and Machine Learning
 
 <!---
 janvisg/janvisg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
